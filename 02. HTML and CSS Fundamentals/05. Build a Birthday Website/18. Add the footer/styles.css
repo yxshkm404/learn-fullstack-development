@@ -93,3 +93,12 @@ https://scrimba.com/learn/htmlandcss
 Text:
 Want to create your own Birthday GIFt site? Take this HTML & CSS course.
 */
+
+#footer{
+    width: 400px;
+    margin: 40px  auto 20px;
+}
+
+a{
+    color: white;
+}

@@ -9,6 +9,6 @@ console.log(flooredNumber)
 
 What does Math.floor() do to positive numbers?
 
-Your answer: 
+Your answer: it removes the decimal number 
 
 */

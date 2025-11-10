@@ -5,12 +5,12 @@ PS: Make sure you change ALL of the listed CSS properties.
 */
 
 body {
-    background: yellow;     /* red, blue, yellow, etc */
-    color: red;             /* red, blue, yellow, etc */
-    font-size: 20px;        /* 0px - 100px and beyond */
-    font-weight: lighter;   /* lighter, normal, bold  */
-    text-align: right;      /* left, center or right  */ 
-    margin-top: 5px;        /* From 0px and upwards   */
+    background: saddlebrown;     /* red, blue, yellow, etc */
+    color: white;             /* red, blue, yellow, etc */
+    font-size: 25px;        /* 0px - 100px and beyond */
+    font-weight: bold;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 30px;        /* From 0px and upwards   */
 }
 
 

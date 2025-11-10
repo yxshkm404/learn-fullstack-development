@@ -4,3 +4,6 @@
 // It should contain your name (string), your age (number), and whether you like pizza (boolean)
 
 
+
+let per = ["per",35,true]
+

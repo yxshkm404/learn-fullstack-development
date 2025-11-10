@@ -5,6 +5,10 @@ let weekday = "Friday"
 // Use the logical "AND operator" -> &&
 
 
+if (dayOfMonth ===31 && weekday=== friday){
+    console.log(" 😱")
+}
+
 
 
 

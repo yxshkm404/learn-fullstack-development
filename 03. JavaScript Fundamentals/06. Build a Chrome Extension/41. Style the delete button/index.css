@@ -24,7 +24,8 @@ button {
 /* Style the button according to the provided design */
 
 #delete-btn {
-    
+    background: white;
+    color: #5f9341;
 }
 
 ul {

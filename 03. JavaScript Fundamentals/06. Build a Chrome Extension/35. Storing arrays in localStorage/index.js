@@ -1,5 +1,14 @@
 let myLeads = `["www.awesomelead.com"]`
 
+myLeads = JSON.parse(myLeads)
+
+myLeads.push("www.google.com")
+
+myLeads = JSON.stringify(myLeads)
+
+console.log(typeof myLeads)
+
+
 // 1. Turn the myLeads string into an array
 // 2. Push a new value to the array
 // 3. Turn the array into a string again

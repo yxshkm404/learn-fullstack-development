@@ -24,10 +24,16 @@ provided design slide.
 
 #bday-age {
     background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
 
 #bday-date {
+    margin-top: 5px;
+    margin-bottom: 10px;
     background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
 
 #header {

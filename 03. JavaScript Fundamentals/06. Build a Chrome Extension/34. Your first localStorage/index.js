@@ -13,6 +13,14 @@ const ulEl = document.getElementById("ul-el")
 // localStorage.clear()
 // PS: both key and value need to be strings
 
+localStorage.setItem("myLeads","www.google.com")
+ 
+let lead  = localStorage.getItem("myLeads")
+
+console.log(lead)
+
+
+
 
 inputBtn.addEventListener("click", function() {
     myLeads.push(inputEl.value)

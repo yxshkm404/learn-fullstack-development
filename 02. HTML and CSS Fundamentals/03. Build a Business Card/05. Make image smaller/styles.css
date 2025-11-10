@@ -3,6 +3,10 @@ body {
 }
 
 
+.avatar{
+    width: 200px;
+}
+
 /*
 Challenge:
 Set the width of the image to 150px.

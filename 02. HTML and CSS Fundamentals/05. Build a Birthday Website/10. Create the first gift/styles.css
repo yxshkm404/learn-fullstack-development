@@ -36,6 +36,7 @@ h1, h2, h3, h4, p {
     align-items: center;
 }
 
+
 /*
 Challenge:
 1. Create a "gift-section" <div> that will wrap
@@ -46,4 +47,21 @@ Challenge:
 
 PS: the image should be 400px wide.
 */
+.gift-section{
+    margin-top: 50px;
 
+}
+
+.gift-hint{
+    margin-top: 0;
+}
+
+.gift-title{
+    margin-top: 10px;
+}
+
+.gift-img{
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+}

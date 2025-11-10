@@ -12,4 +12,10 @@ Challenge:
 2. Select the card class and give it a dotted blue border
 3. Add 20 pixels of padding on all sides of the card
 */
+.card{
+    border: 1px dotted blue;
+    padding: 20px;
+    
+
+}
 

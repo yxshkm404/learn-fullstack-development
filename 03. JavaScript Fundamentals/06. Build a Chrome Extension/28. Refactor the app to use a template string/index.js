@@ -13,7 +13,7 @@ function renderLeads() {
     let listItems = ""
     for (let i = 0; i < myLeads.length; i++) {
         // Refactor the code below to use a template string
-        listItems += "<li><a target='_blank' href='" + myLeads[i] + "'>" + myLeads[i] + "</a></li>"
+        listItems += `<ul><li><a target = _blank href='${myLeads[1]}'> ${myLeads[i]}</a></li></ul>`
     }
     ulEl.innerHTML = listItems  
 }

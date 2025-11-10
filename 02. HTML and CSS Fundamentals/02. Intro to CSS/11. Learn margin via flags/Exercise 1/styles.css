@@ -5,6 +5,10 @@ body {
 .red {
     background: #c71226;
     height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
     /*Challenge:
     Add 100px of margin on the bottom of the red box. */
     

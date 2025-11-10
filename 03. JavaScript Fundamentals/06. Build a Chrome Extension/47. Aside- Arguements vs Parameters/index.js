@@ -11,7 +11,7 @@ function greetUser(greeting, name) {
 
 //.        arguments
 let hi = "Howdy"
-greetUser(hi, "James")
+greetUser(hi, "James") //Howdy, James  👋
 
 
 function add(num1, num2) {

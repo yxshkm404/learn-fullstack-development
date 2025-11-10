@@ -5,5 +5,15 @@
 // string in the following format: 
 // "Per is 35 years old and lives in Norway"
 
-// Call the logData() function to verify that it works
+// Call the logData() function to verify that it works 
+
+
+let person= {
+    name: "per",
+    age: 25,
+    country: "norway",
+    logData: function(){
+        return `${this.name} is ${this.age} and lives in ${this.country}`
+    }
+}
 

@@ -10,6 +10,23 @@ document.getElementById("num2-el").textContent = num2
 
 // E.g. if the user clicks on the "Plus" button, you should render
 // "Sum: 10" (since 8 + 2 = 10) inside the paragraph with id="sum-el"
+let sumEl = document.getElementById("sum-el")
+
+function add (){
+sumEl.textContent= num1+num2
+}
+
+function sub(){
+    sumEl.textContent= num1-num2
+}
+
+function div (){
+    sumEl.textContent= num1/num2
+}
+
+function mul(){
+    sumEl.textContent= num1*num2
+}
 
 
 
